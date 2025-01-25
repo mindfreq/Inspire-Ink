@@ -91,7 +91,7 @@ python manage.py migrate
 
 
 
-Frontend Setup:
+### Frontend Setup:
 
 1. Navigate to the frontend directory:
 
