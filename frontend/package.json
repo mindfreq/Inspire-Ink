@@ -1,0 +1,50 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@tiptap/core": "^2.11.3",
+    "@tiptap/extension-bold": "^2.11.3",
+    "@tiptap/extension-color": "^2.11.3",
+    "@tiptap/extension-font-family": "^2.11.3",
+    "@tiptap/extension-font-size": "3.0.0-next.3",
+    "@tiptap/extension-highlight": "^2.11.3",
+    "@tiptap/extension-image": "^2.11.3",
+    "@tiptap/extension-link": "^2.11.3",
+    "@tiptap/extension-text-align": "^2.11.3",
+    "@tiptap/extension-text-style": "^2.11.3",
+    "@tiptap/extension-underline": "^2.11.3",
+    "@tiptap/extension-youtube": "^2.11.3",
+    "@tiptap/pm": "^2.11.3",
+    "@tiptap/starter-kit": "^2.11.3",
+    "@tiptap/vue-3": "^2.11.3",
+    "autoprefixer": "^10",
+    "axios": "^1.7.9",
+    "core-js": "^3.8.3",
+    "flowbite": "^3.0.0",
+    "flowbite-typography": "^1.0.5",
+    "postcss": "^8",
+    "register-service-worker": "^1.7.2",
+    "tailwindcss": "^3",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "vue-cli-plugin-tailwind": "~3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
